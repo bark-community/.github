@@ -1,4 +1,4 @@
-About BARK
+# About BARK
 
 The Bark emerges as a groundbreaking blockchain initiative, specifically designed to tackle critical global issues in disaster relief and environmental conservation. At its core, the Protocol harnesses the unique capabilities of Solana blockchain technology to redefine the distribution and management of resources on a global scale. This innovative approach focuses on democratizing access to resources, optimizing the delivery of aid, and nurturing a community-driven framework for responding to global emergencies and environmental challenges.
 
