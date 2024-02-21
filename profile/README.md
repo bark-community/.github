@@ -41,6 +41,9 @@ The BARK Protocol is the visionary cornerstone of the ecosystem, designed to rev
 
 In synergy with the BARK Protocol, the BARK Token takes its place as a stable and reliable component within the BARK Ecosystem. The addition of an Immutable Owner, fortified by advanced logic and continuous improvements, adds an extra layer of security and trust to the token, reinforcing its role in empowering transactions and ensuring the stability of the entire ecosystem.
 
+**Notice!**
+This project is a community-driven endeavor, and success hinges on the collective effort of its contributors. Hard work and dedication from the community are essential to achieving the ambitious goals outlined in the BARK Ecosystem. Together, we forge a resilient future through collaboration and shared commitment.
+
 ## Slogan
 
 "BARK Ecosystem: Uniting Chains, Empowering Lives – Forging a Resilient Future"
