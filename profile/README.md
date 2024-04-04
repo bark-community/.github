@@ -69,7 +69,3 @@ In synergy with the BARK Protocol, the BARK Token takes its place as a stable an
 
 **Notice!**
 This project is a community-driven endeavor, and success hinges on the collective effort of its contributors. Hard work and dedication from the community are essential to achieving the ambitious goals outlined in the BARK Ecosystem. Together, we forge a resilient future through collaboration and shared commitment.
-
-## Slogan
-
-"BARK Ecosystem: Uniting Chains, Empowering Lives – Forging a Resilient Future"
