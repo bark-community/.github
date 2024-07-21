@@ -62,7 +62,7 @@ By prioritizing charity and disaster relief initiatives, BARK demonstrates its c
 - **Utility:** The BARK Token is used for transactions, staking, and accessing premium features within the BARK ecosystem.
 - **Charity and Disaster Relief:** Portions of transaction fees support charitable causes and disaster relief efforts.
 
-## The Peaky Barkers "BARKER" & SPARKY BROS "SPARKY"
+### The Peaky Barkers "BARKER" & SPARKY BROS "SPARKY"
 
 - **Tiered Membership:** BARK Token holders can access tiered membership levels, unlocking additional benefits and exclusive features.
 - **Club Tokens:** CNFTs representing club memberships offer unique privileges and rewards, enhancing user engagement and community involvement.
